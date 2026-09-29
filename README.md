@@ -1,19 +1,20 @@
 # AI_Proyecto_2.0
-Proyecto de inteligencia artificial con GitHub.# AI_Proyecto_2.0
 
 ## Proyecto de Inteligencia Artificial
 
-Este proyecto corresponde al desarrollo de un sistema de recomendación utilizando inteligencia artificial.
+Este proyecto corresponde al desarrollo de un sistema de recomendación de productos utilizando Python.
 
-### Objetivo
+## Objetivo
 
-Crear un sistema capaz de recomendar productos de acuerdo con las preferencias indicadas por el usuario.
+Crear un sistema capaz de recomendar productos de acuerdo con las preferencias seleccionadas por el usuario.
 
-### Funcionamiento
+## Funcionamiento
 
-El sistema utiliza una lista de productos y compara la categoría de cada producto con la categoría seleccionada en las preferencias.
+El sistema utiliza una lista de productos y compara la categoría de cada producto con la categoría indicada en las preferencias.
 
-### Productos
+Cuando encuentra productos que pertenecen a la categoría seleccionada, los agrega a la lista de recomendaciones.
+
+## Productos utilizados
 
 - Laptop — Tecnología
 - Audífonos — Tecnología
@@ -21,20 +22,40 @@ El sistema utiliza una lista de productos y compara la categoría de cada produc
 - Zapatillas — Ropa
 - Libro — Educación
 
-### Preferencia
+## Preferencia del usuario
 
-- Categoría: Tecnología
+La categoría seleccionada para realizar la recomendación es:
 
-### Resultado esperado
+- Tecnología
 
-El sistema recomienda los productos que pertenecen a la categoría seleccionada por el usuario.
+## Resultado
 
-### Tecnologías utilizadas
+El sistema recomienda los productos que pertenecen a la categoría seleccionada:
+
+- Laptop
+- Audífonos
+
+## Tecnologías utilizadas
 
 - Python
-- GitHub
 - Visual Studio Code
+- GitHub
+- GitHub Copilot
 
-## Autores
+## Desarrollo del proyecto
 
-Proyecto de Inteligencia Artificial 2.0
+Primero se creó un repositorio en GitHub llamado AI_Proyecto_2.0.
+
+Luego se clonó el repositorio en el computador utilizando Git y Visual Studio Code.
+
+Después se creó el archivo `recommendation_system.py`, donde se desarrolló el sistema de recomendación.
+
+Finalmente, se ejecutó el programa para comprobar que funcionara correctamente.
+
+## Evidencia
+
+Se deben incorporar capturas de pantalla del desarrollo del proyecto, del código y del resultado obtenido al ejecutar el programa.
+
+## Conclusión
+
+El proyecto permitió desarrollar un sistema básico de recomendación de productos y conocer el uso de herramientas como Python, GitHub, Visual Studio Code y GitHub Copilot.
