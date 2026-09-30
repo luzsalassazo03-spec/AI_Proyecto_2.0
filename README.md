@@ -54,7 +54,16 @@ Finalmente, se ejecutó el programa para comprobar que funcionara correctamente.
 
 ## Evidencia
 
-Se deben incorporar capturas de pantalla del desarrollo del proyecto, del código y del resultado obtenido al ejecutar el programa.
+Se deben incorporar capturas de pantalla del desarrollo del proyecto, del código y del resultado obtenido al ejecutar el programa.### Capturas de evidencia
+
+Las siguientes capturas muestran el desarrollo del proyecto, la programación en Python, la ejecución del sistema y el trabajo realizado en GitHub.
+
+- Evidencia del desarrollo del proyecto.
+- Evidencia del código en Python.
+- Evidencia de la ejecución del sistema.
+- Evidencia del repositorio en GitHub.
+
+- 
 
 ## Conclusión
 
